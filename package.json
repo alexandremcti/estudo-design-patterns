@@ -1,0 +1,15 @@
+{
+  "name": "estudo-desgin-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<alexandre_mcti@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc && jest ./dist"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "typescript": "^4.6.3"
+  }
+}
